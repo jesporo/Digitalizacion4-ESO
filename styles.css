@@ -1,0 +1,16 @@
+body{
+  padding: 25px;
+}
+.title {
+	color: #5C6AC4;
+}
+
+.encabezado {  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  width: 100%;
+  height: 200px;
+  background-image: url('https://raw.githubusercontent.com/jesporo/Digitalizacion4-ESO/refs/heads/main/Haz%20una%20imagen%20del%20comercio%20electronico%20(1).jpg');
+}
