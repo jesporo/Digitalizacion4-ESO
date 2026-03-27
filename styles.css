@@ -35,7 +35,7 @@ nav *:hover {
     font-family: "JetBrains Mono", monospace;
 }
 
-h2, img {
+h1, h2, img {
   padding: 20px;
   align-items: center;
   text-align: center;
