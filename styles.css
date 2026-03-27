@@ -12,11 +12,30 @@
   background-image: url('https://raw.githubusercontent.com/jesporo/Digitalizacion4-ESO/refs/heads/main/Haz%20una%20imagen%20del%20comercio%20electronico%20(1).jpg');
 }
 
+.menu * {
+  cursor: pointer;
+  all: unset;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  width: 100%;
+}
+
+.menu {
+  background: black;
+  color: white;
+}
+
+nav *:hover {
+  cursor: pointer;
+}
+
 * {
     font-family: "JetBrains Mono", monospace;
 }
 
-h2 {
+h2, img {
   padding: 20px;
   align-items: center;
   text-align: center;
